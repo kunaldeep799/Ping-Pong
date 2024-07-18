@@ -1,13 +1,15 @@
 # Ping-Pong
 ## Key Features
 
-- Realistic and responsive UI.
+- Responsive
+- Simple And Easy
 
 ## Built With
 
 - HTML
 - CSS
+- JavaScript
 
 ## Demo
 
-Check out the live demo of the application at https://kunaldeep799.github.io/Music-Player/
+Check out the live demo of the application at https://kunaldeep799.github.io/Ping-Pong/
