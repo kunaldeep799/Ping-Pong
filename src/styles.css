@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-image: url(bg.jpg);
+  size: 100%;
+  background-position: center;
+}
+#app {
+  position: relative;
+}
+
+/*  ball properties*/
+#ball {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  position: fixed;
+  top: 20px;
+  left: 52.5%;
+  border-radius: 50%;
+}
+
+/*  rod properties*/
+#rod1, #rod2 {
+  width: 200px;
+  height: 20px;
+  position: fixed;
+  left: 50%;
+  border-radius: 25px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+#rod1 {
+  background-color: blue;
+  top: 0px;    
+}
+
+#rod2 {
+  background-color: blueviolet;
+  bottom: 0px;
+}
